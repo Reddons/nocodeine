@@ -1,6 +1,16 @@
 # freedom-Enhanced
 This is an version modified this is not the original, who made this is ciremun. https://github.com/Ciremun/freedom
 
+
+> [!WARNING]
+> **Status:** Undetected.
+
+
+<img width="530" height="943" alt="image" src="https://github.com/user-attachments/assets/846b3dcb-17e5-483a-b16e-18603a842408" />
+
+
+
+
 # Whats the difference?
 
 - this modified version has more features, and its fully undetected ( 08/02/2026 )
